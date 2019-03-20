@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Redmi Note 5/Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "maintainer_name": "Alexandre Rangel (mamutal91)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8414586",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
+    },
+    {
+      "name": "5T",
+      "brand": "OnePlus",
+      "codename": "dumpling",
+      "maintainer_name": "EsromTech",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Moto G5S",
+      "brand": "Motorola",
+      "codename": "montana",
+      "maintainer_name": "JohnLaff",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Redmi 4A",
+      "brand": "Xiaomi",
+      "codename": "rolex",
+      "maintainer_name": "Pratik Goswami PM (puribapu9141)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8893172",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Redmi Note 4/4X",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "maintainer_name": "rev31one",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "GM 5 Plus",
+      "brand": "General Mobile",
+      "codename": "shamrock",
+      "maintainer_name": "Tunahan Sahin (tunasahinn)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9165614",
+      "xda_thread": "https://forum.xda-developers.com/"
+    }
+]

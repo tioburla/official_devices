@@ -1,0 +1,3 @@
+* Derp Kernel v5.3
+* Added app for automatic update via OTA
+* Updates Google Apps
