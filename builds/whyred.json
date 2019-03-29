@@ -17,6 +17,15 @@
       "size": "928072189",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/whyred/Kraken_whyred-Pie-20190519-1710-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1559105927",
+      "filename": "Kraken_whyred-Pie-20190529-0216-OFFICIAL.zip",
+      "id": "da9323704c6fd7d1f851aa732a8597fc",
+      "romtype": "OFFICIAL",
+      "size": "865514795",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/whyred/Kraken_whyred-Pie-20190529-0216-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }

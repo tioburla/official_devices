@@ -1,0 +1,8 @@
+* PIE FIRMWARE REQUIRED (9.4.25+)
+* Tree rebased on @GuaiYiHu
+* PureCAF Kernel x2
+* Dirac added
+* MiuiCamera updated
+* Turn on swipe-up gesture by default
+* Videos and Photos on WhatsApp Fixed (GreenScreen)
+* OTA Fixed (will only work on the next build)
