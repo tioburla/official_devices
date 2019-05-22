@@ -1,18 +1,18 @@
 [
     {
-      "name": "Redmi Note 5/Pro",
-      "brand": "Xiaomi",
-      "codename": "whyred",
-      "maintainer_name": "Alexandre Rangel (mamutal91)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8414586",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
+      "name": "GM 5 Plus",
+      "brand": "General Mobile",
+      "codename": "shamrock",
+      "maintainer_name": "Tunahan Sahin (tunasahinn)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9165614",
+      "xda_thread": "https://forum.xda-developers.com/"
     },
-    {
-      "name": "Redmi Note 5/Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
-      "maintainer_name": "Naveen (Saladass05)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9697924",
+    { 
+      "name": "Moto G5S",
+      "brand": "Motorola",
+      "codename": "montana",
+      "maintainer_name": "JohnLaff",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -24,10 +24,34 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-      "name": "Moto G5S",
-      "brand": "Motorola",
-      "codename": "montana",
-      "maintainer_name": "JohnLaff",
+      "name": "Galaxy J5 2015 LTE",
+      "brand": "Samsung",
+      "codename": "j5lte",
+      "maintainer_name": "EsromTech",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Galaxy J5 2015 NFC",
+      "brand": "Samsung",
+      "codename": "j5nlte",
+      "maintainer_name": "EsromTech",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Galaxy J5 2015 China",
+      "brand": "Samsung",
+      "codename": "j5ltechn",
+      "maintainer_name": "EsromTech",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
+      "name": "Galaxy J5 2015 3G",
+      "brand": "Samsung",
+      "codename": "j53gxx",
+      "maintainer_name": "EsromTech",
       "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
       "xda_thread": "https://forum.xda-developers.com/"
     },
@@ -48,11 +72,19 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-      "name": "GM 5 Plus",
-      "brand": "General Mobile",
-      "codename": "shamrock",
-      "maintainer_name": "Tunahan Sahin (tunasahinn)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9165614",
+      "name": "Redmi Note 5/Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "maintainer_name": "Alexandre Rangel (mamutal91)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8414586",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
+    },
+    {
+      "name": "Redmi Note 5/Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "maintainer_name": "Naveen (Saladass05)",
+      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9697924",
       "xda_thread": "https://forum.xda-developers.com/"
     }
 ]
