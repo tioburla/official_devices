@@ -8,14 +8,6 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-      "name": "Moto G5S",
-      "brand": "Motorola",
-      "codename": "montana",
-      "maintainer_name": "JohnLaff",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=",
-      "xda_thread": "https://forum.xda-developers.com/"
-    },
-    {
       "name": "5T",
       "brand": "OnePlus",
       "codename": "dumpling",
