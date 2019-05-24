@@ -3,8 +3,8 @@
       "name": "GM 5 Plus",
       "brand": "General Mobile",
       "codename": "shamrock",
-      "maintainer_name": "Tunahan Sahin (tunasahinn)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9165614",
+      "maintainer_name": "tunasahinn",
+      "maintainer_url": "https://github.com/tunasahinn",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -12,7 +12,7 @@
       "brand": "OnePlus",
       "codename": "dumpling",
       "maintainer_name": "EsromTech",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+      "maintainer_url": "https://github.com/EsromTech",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -20,7 +20,7 @@
       "brand": "Samsung",
       "codename": "j5lte",
       "maintainer_name": "EsromTech",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+      "maintainer_url": "https://github.com/EsromTech",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -28,7 +28,7 @@
       "brand": "Samsung",
       "codename": "j5nlte",
       "maintainer_name": "EsromTech",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+      "maintainer_url": "https://github.com/EsromTech",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -36,7 +36,7 @@
       "brand": "Samsung",
       "codename": "j5ltechn",
       "maintainer_name": "EsromTech",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+      "maintainer_url": "https://github.com/EsromTech",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -44,7 +44,7 @@
       "brand": "Samsung",
       "codename": "j53gxx",
       "maintainer_name": "EsromTech",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=4730968",
+      "maintainer_url": "https://github.com/EsromTech",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -52,7 +52,7 @@
       "brand": "Xiaomi",
       "codename": "rolex",
       "maintainer_name": "Pratik Goswami PM (puribapu9141)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8893172",
+      "maintainer_url": "https://github.com/puribapu9141",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -60,7 +60,7 @@
       "brand": "Xiaomi",
       "codename": "mido",
       "maintainer_name": "Alif Fathur (rev31one)",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=9862902",
+      "maintainer_url": "https://github.com/darkthur",
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
@@ -68,7 +68,7 @@
       "brand": "Xiaomi",
       "codename": "whyred",
       "maintainer_name": "mamutal91",
-      "maintainer_url": "https://forum.xda-developers.com/member.php?u=8414586",
+      "maintainer_url": "https://github.com/mamutal91",
       "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
     }
 ]
