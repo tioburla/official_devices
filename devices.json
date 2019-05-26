@@ -70,5 +70,13 @@
       "maintainer_name": "mamutal91",
       "maintainer_url": "https://github.com/mamutal91",
       "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-kraken-tentacles-project-t3923830"
+    },
+    {
+      "name": "Redmi Note 5/Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "maintainer_name": "luizhfcb",
+      "maintainer_url": "https://github.com/luizhfcb",
+      "xda_thread": "https://forum.xda-developers.com/"
     }
 ]
