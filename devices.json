@@ -8,6 +8,14 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
+      "name": "Moto G5 Plus",
+      "brand": "Motorola",
+      "codename": "potter",
+      "maintainer_name": "eduardobastier93",
+      "maintainer_url": "https://github.com/eduardobastier93",
+      "xda_thread": "https://forum.xda-developers.com/"
+    },
+    {
       "name": "5T",
       "brand": "OnePlus",
       "codename": "dumpling",
