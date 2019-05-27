@@ -3,7 +3,7 @@
 
 Devices repository: https://github.com/KrakenDevices
 
-Submit your request to join the team: https://forms.gle/AKinLpdy8VELaefE6
+Submit your request to join the team: http://bit.ly/KrakenProject-MaintainersForms
 
 Before you open a pull request to add your device into our list of official devices, you should know a few simple things:
 
