@@ -64,14 +64,6 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-      "name": "Redmi 4A",
-      "brand": "Xiaomi",
-      "codename": "rolex",
-      "maintainer_name": "Pratik Goswami PM (puribapu9141)",
-      "maintainer_url": "https://github.com/puribapu9141",
-      "xda_thread": "https://forum.xda-developers.com/"
-    },
-    {
       "name": "Redmi Note 4/4X",
       "brand": "Xiaomi",
       "codename": "mido",
