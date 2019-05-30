@@ -24,7 +24,7 @@
       "xda_thread": "https://forum.xda-developers.com/"
     },
     {
-      "name": "5T",
+      "name": "Oneplus 5T",
       "brand": "OnePlus",
       "codename": "dumpling",
       "maintainer_name": "EsromTech",
@@ -37,7 +37,7 @@
       "codename": "j5lte",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
     },
     {
       "name": "Galaxy J5 2015 NFC",
@@ -45,7 +45,7 @@
       "codename": "j5nlte",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
     },
     {
       "name": "Galaxy J5 2015 China",
@@ -53,7 +53,7 @@
       "codename": "j5ltechn",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
     },
     {
       "name": "Galaxy J5 2015 3G",
@@ -61,7 +61,7 @@
       "codename": "j53gxx",
       "maintainer_name": "EsromTech",
       "maintainer_url": "https://github.com/EsromTech",
-      "xda_thread": "https://forum.xda-developers.com/"
+      "xda_thread": "https://forum.xda-developers.com/galaxy-j5/development/rom-kraken-project-samsung-galaxy-j5-t3932676"
     },
     {
       "name": "Redmi Note 4/4X",
