@@ -1,0 +1,6 @@
+Fixed dialer default
+Improvements colors accent
+Improvements OTA services
+Update GApps
+Source rom update
+Pie gestures enabled default
