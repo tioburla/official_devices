@@ -8,6 +8,15 @@
       "size": "873618893",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190526-1927-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1559347407",
+      "filename": "Kraken_vince-Pie-20190601-0003-OFFICIAL.zip",
+      "id": "b2743bf9d3ce9da6253a31a6b33f034d",
+      "romtype": "OFFICIAL",
+      "size": "848651981",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/vince/Kraken_vince-Pie-20190601-0003-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }
