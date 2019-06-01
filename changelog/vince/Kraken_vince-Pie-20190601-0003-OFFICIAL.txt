@@ -1,0 +1,5 @@
+* Rebased trees to @AmulyaX
+* Fixed green pics on snap
+* update thermal config
+* HAL3 disabled by default, please enable it manually if u want use gcam xD
+* Three Fingers Gestures to take screenshot added
