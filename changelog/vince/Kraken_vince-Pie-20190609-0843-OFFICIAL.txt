@@ -1,0 +1,16 @@
+= Source =
+
+* June security patch
+* Translations updated
+* Google apps updated
+* Lawnchair updated
+* Add extended Qs
+* Add extended volume panel
+* Theming improved
+* Others fixes
+
+
+= Device =
+
+* Added Gcam as default
+* Minor fixes on device tree
