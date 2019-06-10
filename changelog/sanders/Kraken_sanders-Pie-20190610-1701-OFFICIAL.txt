@@ -1,0 +1,2 @@
+* Updated sources
+* Set minimum screen brightness to 1 (was 3)
