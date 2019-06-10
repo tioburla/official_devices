@@ -94,5 +94,13 @@
       "maintainer_name": "luizhfcb",
       "maintainer_url": "https://github.com/luizhfcb",
       "xda_thread": "https://forum.xda-developers.com/"
-    }
+    },
+    {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "maintainer_name": "tioburla",
+      "maintainer_url": "https://github.com/tioburla",
+      "xda_thread": "https://forum.xda-developers.com/"
+     }
 ]
