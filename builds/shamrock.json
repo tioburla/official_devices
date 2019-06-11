@@ -8,6 +8,15 @@
       "size": "771060265",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/shamrock/Kraken_shamrock-Pie-20190519-2326-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1560201244",
+      "filename": "Kraken_shamrock-Pie-20190610-2114-OFFICIAL.zip",
+      "id": "4fd84b08729c64d9da42557cea03cb5b",
+      "romtype": "OFFICIAL",
+      "size": "771910650",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/shamrock/Kraken_shamrock-Pie-20190610-2114-OFFICIAL.zip",
+      "version": "Pie"
     }
-  ]
+   ]
 }
