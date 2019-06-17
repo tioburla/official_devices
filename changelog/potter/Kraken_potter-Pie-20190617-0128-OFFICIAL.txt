@@ -1,0 +1,12 @@
+= Source =
+
+* Display option on the left side of the screen.
+* Others fixes
+
+= Device =
+
+* Kernel Immensity Caf kernel is default now
+* Fixed issues on wifi
+* Updated configs from stock
+* Sepolicy updates
+
