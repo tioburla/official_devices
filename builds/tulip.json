@@ -8,6 +8,16 @@
       "size": "885193822",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/tulip/Kraken_tulip-Pie-20190612-2122-OFFICIAL.zip",
       "version": "Pie"
+    },
+
+    {
+      "datetime": "1561225416",
+      "filename": "Kraken_tulip-Pie-20190622-2313-OFFICIAL.zip",
+      "id": "65395a406892d9c396379542f2487065",
+      "romtype": "OFFICIAL",
+      "size": "886069973",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/tulip/Kraken_tulip-Pie-20190622-2313-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }
