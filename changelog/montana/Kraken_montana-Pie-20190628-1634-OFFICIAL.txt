@@ -1,0 +1,5 @@
+- Add zram size for models with 4GB of RAM
+- Improvements audio effects and tunning
+- Improvements FM
+- Disable HAL3 and EIS
+- Bring back wcnss filter
