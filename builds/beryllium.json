@@ -8,6 +8,15 @@
       "size": "770262511",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-Pie-20190604-1807-OFFICIAL.zip",
       "version": "Pie"
+    },
+    {
+      "datetime": "1561740603",
+      "filename": "Kraken_beryllium-Pie-20190628-1350-OFFICIAL.zip",
+      "id": "bf1b742d72fc513ffe637411ab4ca22c",
+      "romtype": "OFFICIAL",
+      "size": "770398452",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/beryllium/Kraken_beryllium-Pie-20190628-1350-OFFICIAL.zip",
+      "version": "Pie"
     }
   ]
 }
