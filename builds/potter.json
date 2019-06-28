@@ -25,6 +25,15 @@
       "romtype": "OFFICIAL",
       "size": "840262518",
       "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190617-0128-OFFICIAL.zip",
+      "version": "Pie"
+    },
+    {
+      "datetime": "1561704338",
+      "filename": "Kraken_potter-Pie-20190628-0645-OFFICIAL.zip",
+      "id": "f978c7dc06851dc41da6d4cf0cfbddc7",
+      "romtype": "OFFICIAL",
+      "size": "845827653",
+      "url": "https://master.dl.sourceforge.net/project/krakenproject/potter/Kraken_potter-Pie-20190628-0645-OFFICIAL.zip",
       "version": "Pie" 
     }
   ]

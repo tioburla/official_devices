@@ -1,0 +1,18 @@
+= Source =
+
+Markup fixed
+Added digital Wellbeing
+Added 3 finger swipe screenshot
+Updated Lawnchair
+Added more translations
+Fixed duplicate in about
+Translations updated
+Others fixes
+
+= Device =
+
+Changed for default dpi
+Changed max zram for all variants
+Fixed battery led
+Kernel improvements
+
